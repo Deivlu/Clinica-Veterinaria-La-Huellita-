@@ -1,5 +1,7 @@
 🐾 Clínica La Huellita Cyberpunk 💊
+
 Descripción del Proyecto
+
 Clínica La Huellita Cyberpunk es un sistema de gestión de escritorio (Desktop Management System - DMS) diseñado para clínicas y consultorios veterinarios. La aplicación permite manejar el registro de clientes, pacientes (mascotas), servicios médicos y consultas, todo bajo una interfaz moderna y altamente estilizada con temática Cyberpunk y dark mode.
 
 Este proyecto fue construido priorizando la adaptabilidad del diseño y el manejo de los principios de la Programación Orientada a Objetos (OOP).
