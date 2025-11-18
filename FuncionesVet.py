@@ -24,6 +24,13 @@ class Mascota:
     def cumplir_anios(self):
         self.edad += 1
         return True
+    
+    # DENTRO DE la clase Mascota
+
+    def registrar_evento(self, evento_str):
+        """Registra un nuevo evento (vacuna, consulta, etc.) en el historial."""
+        self.historial_medico.append(evento_str)
+        return True
 
     def actualizar_peso(self, nuevo_peso):
         try:
